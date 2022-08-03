@@ -1,7 +1,7 @@
 
 # 简介
 **my.SDKVersion** 是获取基础库版本号的 API。
-
+查看更多[基础库](https://opendocs.alipay.com/mini/framework/lib)内容
 ## 使用限制
 此 API 支持个人支付宝小程序、企业支付宝小程序使用。
 
